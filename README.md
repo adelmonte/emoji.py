@@ -1,6 +1,8 @@
 # emoji.py
 A simple python GTK3 emoji picker for Wayland.
 
+![screenshot](demo.png)
+
 ## Installation
 
 ```bash
